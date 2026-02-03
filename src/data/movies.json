@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Stranger Things",
+        "genre": "Sci-Fi",
+        "rating": 8.7,
+        "year": 2016,
+        "duration": "51min",
+        "description": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.",
+        "cast": [
+            "Millie Bobby Brown",
+            "Finn Wolfhard",
+            "Winona Ryder"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "trailer": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+        "category": "trending",
+        "backdrop": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
+    },
+    {
+        "id": 2,
+        "title": "The Witcher",
+        "genre": "Fantasy",
+        "rating": 8.2,
+        "year": 2019,
+        "duration": "60min",
+        "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+        "cast": [
+            "Henry Cavill",
+            "Anya Chalotra",
+            "Freya Allan"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/AoGsDM02UVt0npBA8OvpDcZbaMi.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ndl1W4ltcmg",
+        "category": "popular",
+        "backdrop": "https://image.tmdb.org/t/p/original/foGkPxpw9h8zln81j63mix5B7m8.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Breaking Bad",
+        "genre": "Crime",
+        "rating": 9.5,
+        "year": 2008,
+        "duration": "49min",
+        "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine.",
+        "cast": [
+            "Bryan Cranston",
+            "Aaron Paul",
+            "Anna Gunn"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+        "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+        "category": "recommended",
+        "backdrop": "https://image.tmdb.org/t/p/original/vFxjuhENDjEKzWXUGKmRFct15bA.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Crown",
+        "genre": "Drama",
+        "rating": 8.6,
+        "year": 2016,
+        "duration": "58min",
+        "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
+        "cast": [
+            "Claire Foy",
+            "Olivia Colman",
+            "Imelda Staunton"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg",
+        "trailer": "https://www.youtube.com/watch?v=JWtnJjn6ng0",
+        "category": "trending",
+        "backdrop": "https://image.tmdb.org/t/p/original/8VXhcrl5z2I1zEU9X3pkkNrZlD.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Dark",
+        "genre": "Thriller",
+        "rating": 8.8,
+        "year": 2017,
+        "duration": "60min",
+        "description": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+        "cast": [
+            "Louis Hofmann",
+            "Karoline Eichhorn",
+            "Lisa Vicari"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+        "trailer": "https://www.youtube.com/watch?v=rrwycJ08PSA",
+        "category": "popular",
+        "backdrop": "https://image.tmdb.org/t/p/original/3jDXL4Xvj3AzDOF6UH1xeyHW8MH.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Money Heist",
+        "genre": "Action",
+        "rating": 8.3,
+        "year": 2017,
+        "duration": "70min",
+        "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+        "cast": [
+            "Álvaro Morte",
+            "Úrsula Corberó",
+            "Itziar Ituño"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_InqQJRqGW4",
+        "category": "recommended",
+        "backdrop": "https://image.tmdb.org/t/p/original/xGexTKCJDkl12dTW4YCBDXWb1AD.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Narcos",
+        "genre": "Crime",
+        "rating": 8.8,
+        "year": 2015,
+        "duration": "49min",
+        "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country.",
+        "cast": [
+            "Wagner Moura",
+            "Boyd Holbrook",
+            "Pedro Pascal"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+        "trailer": "https://www.youtube.com/watch?v=U7elNhHwgBU",
+        "category": "trending",
+        "backdrop": "https://image.tmdb.org/t/p/original/qx8XQund44cecIJiX2Yb4SUeiT.jpg"
+    },
+    {
+        "id": 8,
+        "title": "The Mandalorian",
+        "genre": "Sci-Fi",
+        "rating": 8.7,
+        "year": 2019,
+        "duration": "40min",
+        "description": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+        "cast": [
+            "Pedro Pascal",
+            "Carl Weathers",
+            "Gina Carano"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+        "trailer": "https://www.youtube.com/watch?v=aOC8E8z_ifw",
+        "category": "popular",
+        "backdrop": "https://image.tmdb.org/t/p/original/9zcbqSxdsRMZWHYtyCd1nXPr2xq.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Black Mirror",
+        "genre": "Sci-Fi",
+        "rating": 8.8,
+        "year": 2011,
+        "duration": "60min",
+        "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+        "cast": [
+            "Jesse Plemons",
+            "Cristin Milioti",
+            "Jimmi Simpson"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+        "trailer": "https://www.youtube.com/watch?v=jDiYGjp5iFg",
+        "category": "recommended",
+        "backdrop": "https://image.tmdb.org/t/p/original/dg3OindVAGZBjlT3xYKqIAdukPL.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Peaky Blinders",
+        "genre": "Crime",
+        "rating": 8.8,
+        "year": 2013,
+        "duration": "60min",
+        "description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps.",
+        "cast": [
+            "Cillian Murphy",
+            "Paul Anderson",
+            "Helen McCrory"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+        "trailer": "https://www.youtube.com/watch?v=oVzVdvGIC7U",
+        "category": "trending",
+        "backdrop": "https://image.tmdb.org/t/p/original/l8v3gJDlASN0lNn51gR8zQJsu5O.jpg"
+    }
+]

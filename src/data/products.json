@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "Sony WH-1000XM5 Wireless Headphones",
+        "category": "Electronics",
+        "price": 399.99,
+        "rating": 4.8,
+        "reviews": 12453,
+        "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?q=80&w=800&auto=format&fit=crop",
+        "description": "Industry-leading noise cancellation with premium sound quality and up to 30 hours of battery life.",
+        "specs": [
+            "Bluetooth 5.2",
+            "30h Battery",
+            "Active Noise Cancellation",
+            "Touch Controls"
+        ],
+        "inStock": true,
+        "discount": 10
+    },
+    {
+        "id": 2,
+        "name": "Apple MacBook Pro 14-inch",
+        "category": "Computers",
+        "price": 1999.00,
+        "rating": 4.9,
+        "reviews": 8932,
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800&auto=format&fit=crop",
+        "description": "Supercharged by M3 Pro chip with stunning Liquid Retina XDR display.",
+        "specs": [
+            "M3 Pro Chip",
+            "16GB RAM",
+            "512GB SSD",
+            "14.2-inch Display"
+        ],
+        "inStock": true,
+        "discount": 0
+    },
+    {
+        "id": 3,
+        "name": "Nike Air Max 270",
+        "category": "Fashion",
+        "price": 150.00,
+        "rating": 4.6,
+        "reviews": 5621,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=800&auto=format&fit=crop",
+        "description": "Nike's biggest heel Air unit yet delivers exceptional comfort and style.",
+        "specs": [
+            "Air Max cushioning",
+            "Mesh upper",
+            "Rubber outsole",
+            "Multiple colors"
+        ],
+        "inStock": true,
+        "discount": 15
+    },
+    {
+        "id": 4,
+        "name": "Samsung 55\" QLED 4K Smart TV",
+        "category": "Electronics",
+        "price": 899.99,
+        "rating": 4.7,
+        "reviews": 3421,
+        "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=800&auto=format&fit=crop",
+        "description": "Quantum Dot technology delivers over a billion shades of brilliant color.",
+        "specs": [
+            "4K Resolution",
+            "HDR10+",
+            "Smart TV",
+            "Alexa Built-in"
+        ],
+        "inStock": true,
+        "discount": 20
+    },
+    {
+        "id": 5,
+        "name": "Kindle Paperwhite",
+        "category": "Books",
+        "price": 139.99,
+        "rating": 4.7,
+        "reviews": 45231,
+        "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=800&auto=format&fit=crop",
+        "description": "Now with a 6.8\" display and adjustable warm light. Waterproof and perfect for reading anywhere.",
+        "specs": [
+            "6.8-inch Display",
+            "Waterproof",
+            "Adjustable Warm Light",
+            "8GB Storage"
+        ],
+        "inStock": true,
+        "discount": 0
+    },
+    {
+        "id": 6,
+        "name": "Instant Pot Duo 7-in-1",
+        "category": "Home",
+        "price": 89.99,
+        "rating": 4.8,
+        "reviews": 67821,
+        "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?q=80&w=800&auto=format&fit=crop",
+        "description": "7 kitchen appliances in 1: pressure cooker, slow cooker, rice cooker, steamer, and more.",
+        "specs": [
+            "6 Quart",
+            "14 Programs",
+            "Stainless Steel",
+            "Dishwasher Safe"
+        ],
+        "inStock": true,
+        "discount": 25
+    },
+    {
+        "id": 7,
+        "name": "Canon EOS R6 Mark II",
+        "category": "Electronics",
+        "price": 2499.00,
+        "rating": 4.9,
+        "reviews": 1234,
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?q=80&w=800&auto=format&fit=crop",
+        "description": "Full-frame mirrorless camera with 24.2MP sensor and advanced autofocus.",
+        "specs": [
+            "24.2MP Sensor",
+            "4K 60fps Video",
+            "In-Body Stabilization",
+            "Dual Card Slots"
+        ],
+        "inStock": false,
+        "discount": 0
+    },
+    {
+        "id": 8,
+        "name": "Levi's 501 Original Jeans",
+        "category": "Fashion",
+        "price": 69.50,
+        "rating": 4.5,
+        "reviews": 8932,
+        "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=800&auto=format&fit=crop",
+        "description": "The original blue jean since 1873. A blank canvas for self-expression.",
+        "specs": [
+            "100% Cotton",
+            "Button Fly",
+            "Straight Fit",
+            "Multiple Washes"
+        ],
+        "inStock": true,
+        "discount": 0
+    },
+    {
+        "id": 9,
+        "name": "Dyson V15 Detect Vacuum",
+        "category": "Home",
+        "price": 649.99,
+        "rating": 4.7,
+        "reviews": 2341,
+        "image": "https://images.unsplash.com/photo-1589113735391-722c1db64626?q=80&w=800&auto=format&fit=crop",
+        "description": "Laser reveals invisible dust. Powerful suction with intelligent cleaning modes.",
+        "specs": [
+            "Laser Detection",
+            "60min Runtime",
+            "HEPA Filtration",
+            "LCD Screen"
+        ],
+        "inStock": true,
+        "discount": 10
+    },
+    {
+        "id": 10,
+        "name": "The Art of War - Hardcover",
+        "category": "Books",
+        "price": 24.99,
+        "rating": 4.6,
+        "reviews": 12453,
+        "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=800&auto=format&fit=crop",
+        "description": "Ancient Chinese military treatise. A timeless guide to strategy and leadership.",
+        "specs": [
+            "Hardcover",
+            "256 Pages",
+            "Illustrated Edition",
+            "Gift Quality"
+        ],
+        "inStock": true,
+        "discount": 0
+    },
+    {
+        "id": 11,
+        "name": "PlayStation 5 Console",
+        "category": "Electronics",
+        "price": 499.99,
+        "rating": 4.8,
+        "reviews": 23421,
+        "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=800&auto=format&fit=crop",
+        "description": "Experience lightning-fast loading with an ultra-high speed SSD and stunning games.",
+        "specs": [
+            "Ultra HD Blu-ray",
+            "825GB SSD",
+            "4K Gaming",
+            "DualSense Controller"
+        ],
+        "inStock": false,
+        "discount": 0
+    },
+    {
+        "id": 12,
+        "name": "Adidas Ultraboost 22",
+        "category": "Fashion",
+        "price": 190.00,
+        "rating": 4.7,
+        "reviews": 4521,
+        "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?q=80&w=800&auto=format&fit=crop",
+        "description": "Premium running shoes with responsive cushioning and energy return.",
+        "specs": [
+            "Boost Midsole",
+            "Primeknit Upper",
+            "Continental Rubber",
+            "Multiple Colors"
+        ],
+        "inStock": true,
+        "discount": 5
+    }
+]
